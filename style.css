@@ -1,0 +1,36 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.btn-primary {
+	background-color: #FFBC8E !important;
+	border-color: #FFBC8E !important;
+}
+
+p.unmatch {
+	color:red;
+	font-family: Roboto;
+}
+
+p.match {
+	color:green;
+	font-family: Roboto;
+}
+
+.card-title {
+	text-align: center;
+	font-family: Roboto;
+}
+
+.card-subtitle {
+	text-align: center;
+	font-family: Roboto;
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: local("Roboto-Regular"),
+	src: local("Roboto-Thin");
+}
